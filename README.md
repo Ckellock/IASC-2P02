@@ -6,7 +6,9 @@ Hello Everybody!
 
 Check out my Interactive Study Guide for IASC-2P02 [here](2P02InteractiveStudyGuideCK.html)
 
-## Check out my Interactive Genealogy 
+## Interactive Genealogy
+Click [here](2P02InteractiveGenealogyCK.html) for my Interactive Genealogy!
+
 ## Speculative Fiction Story
 # Nostalgia Trip, By Connor Kellock.
 Out of all the Christmas gifts that I’ve ever received, I will always remember what I received for Christmas in the year 1995. I was just a little kid filled with excitement at the thought of what Santa had brought me. My family and I emptied out our stockings that hung over our fireplace, which were always filled with chocolate and sweets. With no pause, I rushed over to the tree. I had been eyeing a medium-sized box, with reindeer wrapping paper. It had been sitting there for at least two weeks, and my mind constantly raced as to what was contained underneath. Finally, with weeks of anticipation running through me, I mercilessly tore through the wrapping paper, seeing three letters on the side of the box that I’ve never seen before: “Wii.” 
