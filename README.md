@@ -11,6 +11,7 @@ Click [here](2P02InteractiveGenealogyCK.html) for my Interactive Genealogy!
 
 ## Interactive Timeline
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1_9N48oTQegXjAgdozB9lxMurNLb6WXReY5t68YToZUM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
 ## Speculative Fiction Story
 # Nostalgia Trip, By Connor Kellock.
 Out of all the Christmas gifts that I’ve ever received, I will always remember what I received for Christmas in the year 1995. I was just a little kid filled with excitement at the thought of what Santa had brought me. My family and I emptied out our stockings that hung over our fireplace, which were always filled with chocolate and sweets. With no pause, I rushed over to the tree. I had been eyeing a medium-sized box, with reindeer wrapping paper. It had been sitting there for at least two weeks, and my mind constantly raced as to what was contained underneath. Finally, with weeks of anticipation running through me, I mercilessly tore through the wrapping paper, seeing three letters on the side of the box that I’ve never seen before: “Wii.” 
